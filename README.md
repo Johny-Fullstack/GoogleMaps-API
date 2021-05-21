@@ -17,6 +17,8 @@ Copiar o arquivo .env.dev criando novo arquivo .env
 Adicionar as credencias do Google Maps, variável de ambiente 
 - REACT_APP_GOOGLE_KEY=SUA_CHAVE
 
+Rodar os comando
+
 - npm install
 - npm run start
 
