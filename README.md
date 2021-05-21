@@ -11,6 +11,12 @@ http://images.contelege.com.br/poi.json
 
 # Rodando o projeto
 
+Copiar o arquivo .env.dev criando novo arquivo .env
+- cp .env.dev .env
+
+Adicionar as credencias do Google Maps, variável de ambiente 
+- REACT_APP_GOOGLE_KEY=SUA_CHAVE
+
 - npm install
 - npm run start
 
